@@ -31,9 +31,3 @@
 </p>
 
 <h5 align="right">"Code is like humor—if you have to explain it, it’s bad."</h5>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aliux7/Aliux7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aliux7/Aliux7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aliux7/Aliux7/output/pacman-contribution-graph.svg">
-</picture>
